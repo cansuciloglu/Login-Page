@@ -1,5 +1,5 @@
 # Login-Page
-Giriş çıkış yapılabilecek bir JSP Projesi <br>
+Giriş çıkış yapılabilecek bir JSP uygulaması <br>
 <hr>
-Kullanici Ad:cansu <br>
-Parola:cansu
+<strong>Kullanici Ad:</strong>cansu <br>
+<strong>Parola:</strong>cansu
